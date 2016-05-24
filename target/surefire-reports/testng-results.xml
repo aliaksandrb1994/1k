@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test.AutoTests" duration-ms="97500" started-at="2016-05-23T22:53:02Z" finished-at="2016-05-23T22:54:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="97500" started-at="2016-05-23T22:53:02Z" finished-at="2016-05-23T22:54:39Z">
+      <class name="Test.AutoTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@124753a]" name="setUp" is-config="true" duration-ms="6158" started-at="2016-05-24T01:53:02Z" description="Init Browser" finished-at="2016-05-24T01:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ChangeSettings()[pri:0, instance:Test.AutoTests@124753a]" name="ChangeSettings" duration-ms="6253" started-at="2016-05-24T01:53:08Z" description="ChangeSettings 1k.by" finished-at="2016-05-24T01:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeSettings -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@124753a]" name="setUp" is-config="true" duration-ms="4018" started-at="2016-05-24T01:53:14Z" description="Init Browser" finished-at="2016-05-24T01:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Comparison()[pri:0, instance:Test.AutoTests@124753a]" name="Comparison" duration-ms="15048" started-at="2016-05-24T01:53:18Z" description="Comparison 1k.by" finished-at="2016-05-24T01:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Comparison -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@124753a]" name="setUp" is-config="true" duration-ms="3112" started-at="2016-05-24T01:53:33Z" description="Init Browser" finished-at="2016-05-24T01:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchProduct()[pri:0, instance:Test.AutoTests@124753a]" name="SearchProduct" duration-ms="12576" started-at="2016-05-24T01:53:36Z" description="SearchProduct 1k.by" finished-at="2016-05-24T01:53:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProduct -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@124753a]" name="setUp" is-config="true" duration-ms="2695" started-at="2016-05-24T01:53:49Z" description="Init Browser" finished-at="2016-05-24T01:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchSecond()[pri:0, instance:Test.AutoTests@124753a]" name="SearchSecond" duration-ms="5690" started-at="2016-05-24T01:53:51Z" description="Search 1k.by" finished-at="2016-05-24T01:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchSecond -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@124753a]" name="setUp" is-config="true" duration-ms="2347" started-at="2016-05-24T01:53:57Z" description="Init Browser" finished-at="2016-05-24T01:53:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="changePassorwd()[pri:0, instance:Test.AutoTests@124753a]" name="changePassorwd" duration-ms="11616" started-at="2016-05-24T01:53:59Z" description="changePassorwd 1k.by" finished-at="2016-05-24T01:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePassorwd -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@124753a]" name="setUp" is-config="true" duration-ms="2280" started-at="2016-05-24T01:54:11Z" description="Init Browser" finished-at="2016-05-24T01:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logInSecond()[pri:0, instance:Test.AutoTests@124753a]" name="logInSecond" duration-ms="9935" started-at="2016-05-24T01:54:13Z" description="Login to 1k.by" finished-at="2016-05-24T01:54:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInSecond -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@124753a]" name="setUp" is-config="true" duration-ms="2524" started-at="2016-05-24T01:54:23Z" description="Init Browser" finished-at="2016-05-24T01:54:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logOutSecond()[pri:0, instance:Test.AutoTests@124753a]" name="logOutSecond" duration-ms="13209" started-at="2016-05-24T01:54:26Z" description="LogOut to 1k.by" finished-at="2016-05-24T01:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutSecond -->
+      </class> <!-- Test.AutoTests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Test.AutoTests -->
+</testng-results>
